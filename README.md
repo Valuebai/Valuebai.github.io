@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+1.你可以在这里添加你的个人信息，成为你的简历
+2.你可以在这里记录分享你的心情
+
 You can use the [editor on GitHub](https://github.com/Valuebai/Valuebai.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
