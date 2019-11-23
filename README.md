@@ -14,3 +14,22 @@
 
 ## 碰到加载css, js出现404
 - 需要添加文件CNAME，里面只填写你的域名或者网站名，如：https://valuebai.github.io/
+
+
+## 每篇文章的格式
+- 文章存放：_post文件夹
+- 文章前面统一的格式
+- 文章显示：按照时间排序
+---
+layout:     post					# 使用的布局（不需要改）
+title:      2019-11-23-NLP-测试		# 标题，前面没有像2019-09-09的时间，github是不会显示这篇文章的
+subtitle:   填写副标题    			#副标题
+date:       2019-11-23
+author:     Valuebai
+header-img: img/back-gunicorn.jpg 	#这篇文章标题背景图片
+catalog: true
+tags:
+    - 机器学习
+    - 深度学习
+    - 自然语言处理
+---

@@ -46,8 +46,9 @@ kramdown:
 bd_share: true                          # whether or not using baidu share
 
 # Livere
-labili: false                           # whether or not using Livere
-labili_uid: MTAyMC80MjI1Ny8xODgwNA==    # data uid
+# 暂时用不到，先注释掉
+# labili: false                           # whether or not using Livere
+# labili_uid: MTAyMC80MjI1Ny8xODgwNA==    # data uid
 
 # Analytics settings
 # 网站分析，现在支持百度统计和Google Analytics。需要去官方网站注册一下，然后将返回的code贴在下面：
