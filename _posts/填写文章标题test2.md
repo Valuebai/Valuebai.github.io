@@ -1,6 +1,6 @@
 ---
 layout:     post					# 使用的布局（不需要改）
-title:      填写文章标题test2		# 标题
+title:      2019-11-23-填写文章标题test2		# 标题
 subtitle:   填写副标题    			#副标题
 date:       2019-11-23
 author:     Valuebai
@@ -11,6 +11,7 @@ tags:
     - 深度学习
     - 自然语言处理
 ---
+
 
 
 
