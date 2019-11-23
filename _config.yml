@@ -7,15 +7,23 @@ description: "山山水水又相逢，兜兜转转再缘君"
 keyword: "终身学习，人工智能，NLP，机器学习，深度学习"
 url: "https://valuebai.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/Valuebai/Valuebai.github.io.git" # you code repository
 
+
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "专注IT，乐于分享。"
+sidebar-avatar: /img/avatar-xs.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # SNS settings
-# RSS: false
+RSS: false
 douban_username: valuebai
 weibo_username: valuebai
 zhihu_username: valuebai
 github_username: valuebai
+#twitter_username:   qiubaiying
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -51,7 +59,19 @@ kramdown:
 bd_share: true                          # whether or not using baidu share
 
 
+# 评论系统
+# Disqus（https://disqus.com/）
+# disqus_username: qiubaiying
 
+## Gitalk
+# gitalk:
+#   enable: true    #是否开启Gitalk评论
+#   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
+#   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+#   repo: qiubaiying.github.io    #仓库名称
+#   owner: qiubaiying    #github用户名
+#   admin: qiubaiying
+#   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # Livere
 # 暂时用不到，先注释掉
@@ -61,6 +81,7 @@ bd_share: true                          # whether or not using baidu share
 
 
 
+# 统计
 # Analytics settings
 # 网站分析，现在支持百度统计和Google Analytics。需要去官方网站注册一下，然后将返回的code贴在下面：
 
@@ -77,15 +98,15 @@ ba_track_id: 675d4dd59ecc68492b7850259db4b17b
 
 
 
-# Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "专注IT，乐于分享。"
-sidebar-avatar: /img/avatar-xs.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
 
 
 
