@@ -23,7 +23,7 @@
 ```md
 ---
 layout:     post					# 使用的布局（不需要改）
-title:      2019-11-23-NLP-测试		# 标题，前面没有像2019-09-09的时间，github是不会显示这篇文章的
+title:      NLP-测试		        # 标题，可以中文，但是保存在github上的文件名字前面没有像2019-09-09的时间，github是不会显示这篇文章的
 subtitle:   填写副标题    			#副标题
 date:       2019-11-23
 author:     Valuebai

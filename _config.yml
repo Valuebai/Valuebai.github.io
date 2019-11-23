@@ -1,20 +1,23 @@
 # Site settings
 title: Valuebai
-SEOTitle: Valuebai
+SEOTitle: Valuebai的博客 | Valuebai blog
 header-img: img/bg/bg_index.jpg
 email: 520huibo@gmail.com
 description: "山山水水又相逢，兜兜转转再缘君"
-keyword: "人工智能，NLP，机器学习，深度学习"
+keyword: "终身学习，人工智能，NLP，机器学习，深度学习"
 url: "https://valuebai.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
+# RSS: false
 douban_username: valuebai
 weibo_username: valuebai
 zhihu_username: valuebai
 github_username: valuebai
+#facebook_username:  huxpro
+#linkedin_username:  firstname-lastname-idxxxx
 
 
 
@@ -25,6 +28,8 @@ permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+# If you have timezone issue (e.g. #68) in China, uncomment to use this:
+#timezone: CN  
 
 
 
@@ -45,10 +50,16 @@ kramdown:
 # Baidu Share
 bd_share: true                          # whether or not using baidu share
 
+
+
+
 # Livere
 # 暂时用不到，先注释掉
 # labili: false                           # whether or not using Livere
 # labili_uid: MTAyMC80MjI1Ny8xODgwNA==    # data uid
+
+
+
 
 # Analytics settings
 # 网站分析，现在支持百度统计和Google Analytics。需要去官方网站注册一下，然后将返回的code贴在下面：
@@ -63,6 +74,9 @@ ba_track_id: 675d4dd59ecc68492b7850259db4b17b
 # 谷歌地址，需要具体网站，github的无效，https://analytics.google.com/analytics/web/provision/?authuser=0#/provision/create
 
 
+
+
+
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "专注IT，乐于分享。"
@@ -71,6 +85,10 @@ sidebar-avatar: /img/avatar-xs.jpg      # use absolute URL, seeing it's used in 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+
+
+
+
 
 # Friends
 friends: [
