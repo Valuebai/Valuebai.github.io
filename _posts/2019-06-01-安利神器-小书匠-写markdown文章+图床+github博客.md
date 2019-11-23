@@ -1,6 +1,6 @@
 ---
 layout:     post					# 使用的布局（不需要改）
-title:      安利神器-小书匠-2019-09-09		# 标题
+title:      安利神器-小书匠-写markdown文章+图床+github博客		# 标题
 subtitle:   填写副标题    			#副标题
 date:       2019-06-01
 author:     Valuebai
