@@ -1,18 +1,22 @@
 # Site settings
-title: Valuebaiblog
-SEOTitle: Valuebaiblog
+title: Valuebai
+SEOTitle: Valuebai
 header-img: img/bg/bg_index.jpg
 email: 520huibo@gmail.com
-description: ""
-keyword: ""
+description: "山山水水又相逢，兜兜转转再缘君"
+keyword: "人工智能，NLP，机器学习，深度学习"
 url: "https://valuebai.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
+
+
 # SNS settings
-douban_username: 745919068
-weibo_username: 745919068
-zhihu_username: 745919068
+douban_username: valuebai
+weibo_username: valuebai
+zhihu_username: valuebai
 github_username: valuebai
+
+
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -22,8 +26,13 @@ paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
+
+
+
 # Plugins
 plugins: [jekyll-paginate]
+
+
 
 # Markdown settings
 # replace redcarpet to kramdown,
@@ -41,8 +50,17 @@ labili: false                           # whether or not using Livere
 labili_uid: MTAyMC80MjI1Ny8xODgwNA==    # data uid
 
 # Analytics settings
+# 网站分析，现在支持百度统计和Google Analytics。需要去官方网站注册一下，然后将返回的code贴在下面：
+
 # Baidu Analytics
-ba_track_id: 07529a93af5fa9f808261a1318c3aba4
+ba_track_id: 675d4dd59ecc68492b7850259db4b17b
+
+# Google Analytics
+# ga_track_id: 'UA-49627206-1'            # 你用Google账号去注册一个就会给你一个这样的id
+#ga_domain: https://valuebai.github.io/	  # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto。
+
+# 谷歌地址，需要具体网站，github的无效，https://analytics.google.com/analytics/web/provision/?authuser=0#/provision/create
+
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -56,8 +74,8 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
+        title: "Valuebai CSDN",
+        href: "https://blog.csdn.net/luhuibo318"
     },
     {
         title: "Xs blog",
