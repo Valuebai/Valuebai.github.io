@@ -1,43 +1,12 @@
-## Welcome to GitHub Pages
+# Valuebai | Blog
+这是一个 jekyll 的主题模板，主要适用于搭建个人博客使用。模板修改自 [huxblog-boilerplate](https://github.com/Huxpro/huxblog-boilerplate) 主题，原作者为 [黄玄](http://huangxuan.me/)。
 
-1.你可以在这里添加你的个人信息，成为你的简历
-2.你可以在这里记录分享你的心情
+[我的博客](http://xiaosheng.me/)就使用了该模板，效果如下：
 
+![exapmle](example.jpg)
 
-![我的](https://cdn.pixabay.com/photo/2018/01/15/13/55/tibet-3083989_960_720.jpg)
+- 你可以访问 **[这里](https://jsksxs360.github.io/xs-huxblog/)** 预览该主题。
+- 关于如何使用该主题，请点击查看 **[说明文档](https://github.com/jsksxs360/xs-huxblog/blob/master/Document.md)** 。
+- [**下载**](https://github.com/jsksxs360/xs-huxblog/archive/master.zip)本主题。
 
-You can use the [editor on GitHub](https://github.com/Valuebai/Valuebai.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Valuebai/Valuebai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+如果你喜欢该主题，请在原作者黄玄的 [huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) 上点个赞（右上角 star 一下）。当然，若你能顺带给我的这个项目点个赞，那就更好了。
