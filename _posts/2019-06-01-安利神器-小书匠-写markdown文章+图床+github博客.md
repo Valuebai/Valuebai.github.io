@@ -1,7 +1,7 @@
 ---
 layout:     post					# 使用的布局（不需要改）
 title:      安利神器-小书匠-写markdown文章+图床+github博客		# 标题
-subtitle:   填写副标题    			#副标题
+subtitle:   一款专注写作+高颜值+功能强大+cool+个性自由开放灵活的写作软件    			#副标题
 date:       2019-06-01
 author:     Valuebai
 header-img: img/back-gunicorn.jpg 	#这篇文章标题背景图片
@@ -14,6 +14,8 @@ tags:
 
 今年6月份遇到了小书匠，被颜值吸引，功能也超级强大，被深深吸粉，已成为小书匠的重度用户。使用github创建自己的博客，用小书匠写markdown格式的文章以及作为图床保存图片，真是太方便了，必须安利！
 
+![enter description here](https://www.github.com/Valuebai/Valuebai.github.io/raw/master/img/201911231574516301551.png)
+
 ## 小书匠官网
 
 - 【官网】http://soft.xiaoshujiang.com/
@@ -24,8 +26,11 @@ tags:
 ### 小书匠写markdown格式文章
 
 ### 小书匠保存markdown格式文章到github
+- 注意需要在github生成token
 
 ### 使用小书匠做图片（就是保存图片）
+- 注意需要在github生成token
+- 注意保存图片的格式：/img/{{year}}{{month}}{{date}}{{filename}}
 
 
 ## 用github创建个人博客
