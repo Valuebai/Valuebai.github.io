@@ -7,9 +7,8 @@ author:     Valuebai
 header-img: img/back-gunicorn.jpg 	#这篇文章标题背景图片
 catalog: true
 tags:
-    - 机器学习
-    - 深度学习
-    - 自然语言处理
+    - 好用工具
+    - 小书匠
 ---
 
 # 我的推荐
