@@ -14,6 +14,9 @@ tags:
 
 > 【原文地址】：https://xiaosheng.me/2018/01/13/article121/
 
+LSTM 网络原理，https://xiaosheng.me/2017/09/16/article95/
+Seq2Seq 模型入门，https://xiaosheng.me/2019/09/08/article165/  ，NLP 与深度学习结合的经典之作
+
 
 ## 背景
 
