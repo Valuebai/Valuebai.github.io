@@ -4,7 +4,7 @@ title:      浅谈 NLP 中的 Attention 机制		# 标题
 subtitle:   Google 某种程度上体现了“大道至简”的理念，的确是 NLP 中不可多得的精品。    			#副标题
 date:       2019-08-08
 author:     Valuebai
-header-img: img/bg_article_common.jpg 	#这篇文章标题背景图片
+header-img: img/20191124bg_article_common.jpg 	#这篇文章标题背景图片
 catalog: true
 tags:
     - 深度学习
