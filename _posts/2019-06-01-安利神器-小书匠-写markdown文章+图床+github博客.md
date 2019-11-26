@@ -8,7 +8,6 @@ header-img: img/bg_common.jpg 	#这篇文章标题背景图片
 catalog: true
 tags:
     - 好用工具
-    - 小书匠
 ---
 
 # 我的推荐
