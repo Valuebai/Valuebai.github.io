@@ -33,7 +33,6 @@ res = [i for i in result] # 将pandas格式的数据转为列表
 print(res)
 ```
 
-![bg_common](https://www.github.com/Valuebai/Valuebai.github.io/raw/master/img/20191126bg_common.jpg)
 
 【环境】win10_x64 + python3.6.5
 
