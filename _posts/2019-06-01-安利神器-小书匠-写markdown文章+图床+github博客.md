@@ -4,7 +4,7 @@ title:      安利神器-小书匠-写markdown文章+图床+github博客		# 标�
 subtitle:   一款专注写作+高颜值+功能强大+cool+个性自由开放灵活的写作软件    			#副标题
 date:       2019-06-01
 author:     Valuebai
-header-img: img/back-gunicorn.jpg 	#这篇文章标题背景图片
+header-img: img/bg_common.jpg 	#这篇文章标题背景图片
 catalog: true
 tags:
     - 好用工具
