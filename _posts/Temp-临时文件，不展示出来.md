@@ -4,7 +4,7 @@ title:      Temp-临时文件，不展示出来		# 标题
 subtitle:   Temp-临时文件，不展示出来    			#副标题
 date:       2009-09-09
 author:     Valuebai
-header-img: img/back-gunicorn.jpg 	#这篇文章标题背景图片
+header-img: img/bg_common.jpg 	#这篇文章标题背景图片
 catalog: true
 tags:
     - 
