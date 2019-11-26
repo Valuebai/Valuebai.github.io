@@ -22,9 +22,36 @@ tags:
 
 ```python
 import numpy as np 
-y1, y2, y3 = 1.0, 2.0, 3.0
-logits = np.array([y1, y2, y3])   
-softmax = np.exp(logits)/np.sum(np.exp(logits))
+y1, y2, y3 = 3.0, 1.0, 0.2
+logits = np.array([y1, y2, y3])
+softmax = np.exp(logits) / np.sum(np.exp(logits))
+print(softmax)
+
+# 或者结合lambda
+
+# 使用Numpy
+import numpy as np
+
+z = [3.0, 1.0, 0.2]
+
+# 输出阵列
+softmax = lambda x: np.exp(x) / np.sum(np.exp(x), axis=0)
+print(softmax(z))
+
+
+# softmax(x) = softmax(x +c)
+
+
+# 写成函数
+def softmax(vec):
+    """Compute the softmax in a numerically stable way."""
+    vec = vec - np.max(vec)  # softmax(x) = softmax(x+c)
+    exp_x = np.exp(vec)
+    softmax_x = exp_x / np.sum(exp_x)
+    return softmax_x
+
+
+print(softmax([3.0, 1.0, 0.2]))
 
 ```
 
