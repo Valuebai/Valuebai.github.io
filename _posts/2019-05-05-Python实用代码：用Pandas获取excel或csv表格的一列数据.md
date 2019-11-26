@@ -4,7 +4,7 @@ title:      Python实用代码：用Pandas获取excel或csv表格的一列数据
 subtitle:   pandas神器，方便解决各种表格问题    			#副标题
 date:       2019-05-05
 author:     Valuebai
-header-img: img/20191126common.jpg 	#这篇文章标题背景图片
+header-img: img/20191126bg_common.jpg 	#这篇文章标题背景图片
 catalog: true
 tags:
     - Python
@@ -33,7 +33,7 @@ res = [i for i in result] # 将pandas格式的数据转为列表
 print(res)
 ```
 
-
+![bg_common](https://www.github.com/Valuebai/Valuebai.github.io/raw/master/img/20191126bg_common.jpg)
 
 【环境】win10_x64 + python3.6.5
 
