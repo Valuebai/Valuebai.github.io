@@ -92,4 +92,4 @@ print(softmax([3.0, 1.0, 0.2]))
 作为图床
 ---
 
-
+![enter description here](https://www.github.com/Valuebai/Valuebai.github.io/raw/master/img/201911301575117589023.png)
