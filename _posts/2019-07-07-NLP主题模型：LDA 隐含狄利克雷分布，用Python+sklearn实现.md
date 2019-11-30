@@ -1,7 +1,7 @@
 ---
 layout:     post					# 使用的布局（不需要改）
 title:      NLP主题模型：LDA 隐含狄利克雷分布，用Python+sklearn实现		# 标题
-subtitle:   本文主要结合python+LDA+sklearn 来实现，内容通俗易懂~~简而言之，LDA主题模型: 它是一种统计模型，用于标记出现在文档集合中的抽象“主题”，这些主题最能代表这个文档集合中的信息。    			#副标题
+subtitle:   LDA主题模型: 它是一种统计模型，用于标记出现在文档集合中的抽象“主题”，这些主题最能代表这个文档集合中的信息。    			#副标题
 date:       2019-07-07
 author:     Valuebai
 header-img: img/bg_common.jpg 	#这篇文章标题背景图片
