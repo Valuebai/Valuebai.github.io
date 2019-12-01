@@ -11,6 +11,11 @@
 
 如果你喜欢该主题，请在原作者黄玄的 [huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) 上点个赞（右上角 star 一下）。当然，若你能顺带给我的这个项目点个赞，那就更好了。
 
+## 我的搭建过程
+- 第一步：先在github创建同名的valuebai.github.io仓库
+- 第二步：git clone xs-huxblog同学的仓库
+- 第三步：跟进说明文档，https://github.com/jsksxs360/xs-huxblog/blob/master/Document.md，复制文件到我的仓库，git push到我仓库并修改为我的信息
+- 第四步：用小书匠 + markdown格式发布到网站（_post文件下）
 
 ## 碰到加载css, js出现404
 - 需要添加文件CNAME，里面只填写你的域名或者网站名，如：https://valuebai.github.io/
