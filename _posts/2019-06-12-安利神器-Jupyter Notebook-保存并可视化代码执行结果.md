@@ -7,7 +7,7 @@ author:     Valuebai
 header-img: img/bg_common.jpg 	#这篇文章标题背景图片
 catalog: true
 tags:
-    - 实用工具
+    - 好用工具
 ---
 
 Jupyter Notebook（此前被称为 IPython notebook）是一个交互式笔记本，支持运行 40 多种编程语言。
