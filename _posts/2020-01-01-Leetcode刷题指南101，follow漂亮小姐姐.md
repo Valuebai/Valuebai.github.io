@@ -34,7 +34,7 @@ B站：
 https://space.bilibili.com/9880352?fr
 2. 小Q刷题
 https://space.bilibili.com/149758?fro
-3.绵羊教授
+3. 绵羊教授
 https://space.bilibili.com/354892788
 
 
