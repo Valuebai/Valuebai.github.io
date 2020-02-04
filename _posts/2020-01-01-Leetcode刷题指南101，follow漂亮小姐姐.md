@@ -19,7 +19,7 @@ tags:
 视频中提到的：
 
 刷题目录
-https://github.com/CyC2018/CS-Notes/b...
+https://github.com/CyC2018/CS-Notes/b
 
 推荐的学习频道👍🏻
 Youtube ：Back To Back SWE
