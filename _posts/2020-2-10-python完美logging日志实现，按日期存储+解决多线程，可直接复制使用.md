@@ -146,6 +146,9 @@ if __name__ == "__main__":
 
 ```
 
+## 【坑】logging的坑
+https://github.com/Valuebai/awesome-python-io/issues/17
+
 
 【Me】
 https://github.com/Valuebai/
