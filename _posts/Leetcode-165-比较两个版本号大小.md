@@ -63,7 +63,44 @@ tags:
 
 ## 代码实现
 
+```
+def compareVersion(version1: str, version2: str) -> int:
+    """
+    Leetcode-165-比较两个版本号大小
 
+        第一步：根据"."对字符串进行分割，得到list
+        第二步：比较2个列表长度，将短的列表用字符'0'补充，使长度相同
+        第三步：用while循环，逐一比较每个位置i的大小
+
+    :param version1: str，例如：1.2.1
+    :param version2: str，例如：1.1
+    :return: 0表示两个版本相等，1表示version1大于version2，-1表示v1小于v2
+    """
+    a = version1.split('.')  # 根据.进行切分,得到list
+    b = version2.split('.')
+    if len(a) < len(b):
+        a.extend(['0'] * (len(b) - len(a)))  # 注意extend和append的区别，
+    if len(a) > len(b):
+        b.extend(['0'] * (len(a) - len(b)))
+    i = 0
+    while i < len(a) or i < len(b):
+        if a[i] > b[i]:
+            return 1
+        elif a[i] < b[i]:
+            return -1
+        else:
+            i = i + 1
+
+    return 0
+
+
+if __name__ == "__main__":
+    print(compareVersion("1.0.1", "1"))
+    print(compareVersion("0.1", "1.1"))
+    print(compareVersion("7.5.2.4", "7.5.3"))
+    print(compareVersion("1.01", "1.001"))
+    print(compareVersion("1.9", "1.9.0.0.0.1"))
+```
 
 
 
