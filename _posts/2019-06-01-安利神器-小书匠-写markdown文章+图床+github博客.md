@@ -18,17 +18,27 @@ tags:
 
 ## 小书匠官网
 
-- 【官网】http://soft.xiaoshujiang.com/
+- 【官网】[http://soft.xiaoshujiang.com/](http://soft.xiaoshujiang.com/)
+- 【小书匠设置github数据&img图片】[https://github.com/wss434631143/xiaoshujiang](https://github.com/wss434631143/xiaoshujiang)
 - 【小书匠 常用快捷键及设置】https://www.cnblogs.com/wushuaishuai/p/9308094.html
+
+- 【修改编辑器颜色】为Tron Contrast
+- 【预览主题颜色】为tomorrow night
 
 我使用小书匠做这些
 
+邮箱是745
+
 ### 小书匠写markdown格式文章
+
+### 小书匠将markdown格式文章转为pdf（如简历）
+
+### 小书匠生成思维导图
 
 ### 小书匠保存markdown格式文章到github
 - 注意需要在github生成token
 
-### 使用小书匠做图片（就是保存图片）
+### 使用小书匠做图床（就是保存图片到github，有图片地址可访问）
 - 注意需要在github生成token
 - 注意保存图片的格式：/img/{{year}}{{month}}{{date}}{{filename}}
 
