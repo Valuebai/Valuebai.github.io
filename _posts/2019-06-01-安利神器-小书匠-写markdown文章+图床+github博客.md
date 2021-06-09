@@ -63,6 +63,7 @@ tags:
 
 ## 我的小书匠文章模板
 ```md
+
 ---
 layout:     post					# 使用的布局（不需要改）
 title:      填写标题，这可不用时间，但保存在github的文件名需要2019-09-09		# 标题
@@ -77,7 +78,10 @@ tags:
     - 自然语言处理
 ---
 
-或者
+
+或者(标头二选一)
+
+
 ---
 layout:     post                                        # 使用的布局（不需要改）
 title:      填写标题，可不加时间，但保存在github的文件名需要手机加时间2019-09-09              # 标题
@@ -93,28 +97,26 @@ tags:
     - 自然语言处理
 ---
 
+## 0x1 第一
 
-## Hello Mr.Lucky
+## 0x2 第二
 
+
+## 0x8 部署环境（本段##内容为了提醒，可删除）
+- 【环境】MacPro + python3.6.8
 
 注意点：
-1、复制图片过来，要先等一会！要先等一会！！要先等一会！！！让小书匠保存成github的图床图片，先不要保存到github上的文章，不然图片获取用的是：(./images/1561707358500.png)，会导致复制到CSDN上无法使用
-2、复制图片过来先保存一遍，不然容易出现(./images/1561707358500.png)
+1. 复制图片过来，要先等一会！要先等一会！！要先等一会！！！让小书匠保存成gitee的图床图片，先不要保存到为其他地方的文章，不然图片获取用的是：(./images/1561707358500.png)，会导致复制到CSDN上无法使用
+2. 复制图片过来先让它自动保存为gitee一遍，不然容易出现(./images/1561707358500.png)
 
+3. 【小书匠 常用快捷键及设置】https://www.cnblogs.com/wushuaishuai/p/9308094.html
 
-
-【小书匠 常用快捷键及设置】https://www.cnblogs.com/wushuaishuai/p/9308094.html
-
-
-
-【环境】win10_x64 + python3.6.5
-
-
-【Me】https://github.com/Valuebai/
 
 
 【参考】
-1、出处：地址
+1. About me：[https://github.com/Valuebai/](https://github.com/Valuebai/)
+2. 出处：地址[]()
+
 ```
 
 
