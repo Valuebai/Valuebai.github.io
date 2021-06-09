@@ -77,6 +77,21 @@ tags:
     - 自然语言处理
 ---
 
+或者
+---
+layout:     post                                        # 使用的布局（不需要改）
+title:      填写标题，可不加时间，但保存在github的文件名需要手机加时间2019-09-09              # 标题
+subtitle:   填写副标题                       #副标题
+date:       <% print((new Date()).getFullYear().toString()+ '-'+ ((new Date()).getMonth() + 1).toString() + '-'+ (new Date()).getDate().toString()); %>
+author:     Valuebai
+header-img: https://images.gitee.com/uploads/images/2021/0609/111925_10d6266f_420440.jpeg       #这篇文章标题背景图片
+catalog: true
+tags:
+    - python
+    - 好用工具
+    - 机器学习
+    - 自然语言处理
+---
 
 
 ## Hello Mr.Lucky
